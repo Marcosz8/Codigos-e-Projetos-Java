@@ -45,6 +45,17 @@ Os produtos são armazenados em uma lista
 
 Ao final, o sistema imprime as price tags de todos os produtos cadastrados
 
+## 🏗️ Estrutura do Projeto
+
+application/  
+└── Program.java
+
+entities/  
+├── ImportedProduct.java  
+├── Product.java  
+└── UsedProduct.java  
+
+
 🎯 Objetivo do aprendizado
 
 Este exercício teve como foco:
