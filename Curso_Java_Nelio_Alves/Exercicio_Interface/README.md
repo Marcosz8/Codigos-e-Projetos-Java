@@ -1,4 +1,4 @@
-# 🤔 Contract Processing System (Java)
+# Contract Processing System (Java)
 
 This project is a practical exercise developed in Java aimed at practicing Object-Oriented Programming, focusing on Interfaces, Dependency Injection, and Exception Handling.
 
